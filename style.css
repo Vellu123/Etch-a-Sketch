@@ -1,4 +1,4 @@
-.gridBox {
+#gridBox {
 
     width: 40px;
     height: 40px;
@@ -18,4 +18,8 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
+}
+
+#coloredBox {
+    background-color: black;
 }
